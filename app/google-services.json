@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804228761973",
+    "project_id": "fast-report-87bbf",
+    "storage_bucket": "fast-report-87bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804228761973:android:36ee2290d4d9e39f22ab3c",
+        "android_client_info": {
+          "package_name": "com.example.fastreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804228761973-44hnsuc3dasntgmkg2ogdqkcmrkh4pa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTghLYrvzWnMWDyyiUj1f8FhlHmI6hyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804228761973-44hnsuc3dasntgmkg2ogdqkcmrkh4pa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
